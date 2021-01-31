@@ -13,4 +13,4 @@ Mi nombre es Samuel Esteban Bassi. No soy más que un simple curioso. Este blog 
 3. Compartir experimentos.
 4.  Pulir mis habilidades comunicacionales(no es que me sobren precisamente).
 
-Cualquier sugerencia o correción es más que bienvenida(¡será puesta a prueba!).
+Cualquier sugerencia o corrección es más que bienvenida(¡será puesta a prueba!).
