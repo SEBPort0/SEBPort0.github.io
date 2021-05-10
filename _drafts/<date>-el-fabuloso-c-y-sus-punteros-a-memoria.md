@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  El fabuloso C y sus cuadraditos de memoria
+title:  El fabuloso C y sus punteros a memoria
 mathjax: true
 categories: [C]
 ---
@@ -25,7 +25,7 @@ los punteros pueden justificar su existencia y que hasta pueden ser bellos y ele
 La clave, hablando en C-general, es tener presente que C ve la memoria como una secuencia 
 de bytes, cada uno con su dirección de memoria(única). 
 
-[//]: # (Insertar figura 1)
+[//]: # "Insertar figura 1"
 
 ## 1 - ¿Qué es un puntero en C?
 
